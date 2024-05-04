@@ -13,7 +13,7 @@
 
   Helps new learners to develop conversational skills, to improve pronunciation and sentence structures
   
-  Inspired by the struggles faced by underpriveleged children in access to learning English
+  Inspired by the struggles faced by underpriveleged children in India to get access to learning English
 
 
 
