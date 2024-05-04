@@ -11,7 +11,7 @@
 
 
 
-  Helps new learners to develop conversational skills, to improve pronunciation and sentence structures
+  Helps new English learners to develop conversational skills and to improve pronunciation & sentence structures
   
   Inspired by the struggles faced by underpriveleged children in India to get access to learning English
 
