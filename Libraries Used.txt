@@ -1,0 +1,12 @@
+Libraries Used:
+
+Tkinter
+Speech_recognition
+Pyttsx3
+Pygame
+Googletrans
+gTTs
+Pandas
+Language_tool_python
+Functools
+Threading
